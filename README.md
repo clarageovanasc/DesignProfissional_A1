@@ -111,3 +111,5 @@ LaTeX (Overleaf): Para diagramação profissional do currículo.
 Git & GitHub: Para versionamento e hospedagem do portfólio.
 
 Markdown: Para documentação técnica e relatórios.
+
+Desenvolvido por Clara Geovana.
