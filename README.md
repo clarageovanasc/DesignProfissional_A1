@@ -1,67 +1,34 @@
-🚀 Portfólio Acadêmico - Avaliação A1
+Portfólio Acadêmico - Avaliação A1
 
-Aluna: Clara Geovana (clarageovanasc)
-
+Aluna: Clara Geovana Caldeira da Silva (clarageovanasc)
 Curso: Análise e Desenvolvimento de Sistemas
-
 Disciplina: Design Profissional
 
-🎯 Objetivo
 
-Este repositório centraliza as entregas da Avaliação A1, organizando as evidências de carreira e os links para os projetos técnicos desenvolvidos no 1º semestre.
+1. Repositórios das Disciplinas
 
-1. Checklist de Entregáveis
+Links para os projetos técnicos desenvolvidos no semestre:
 
-Aqui estão os links diretos para as evidências solicitadas:
+Algoritmos e Lógica (C)
 
-[x] Processo Seletivo: 📄 Visualizar Comprovante
-
-[x] Currículo Profissional: 📄 Baixar PDF (LaTeX)
-
-[x] Portfólio Digital: Este próprio repositório (DesignProfissional-A1).
-
-[ ] Certificado: Não se aplica neste semestre.
-
-2. Repositórios das Disciplinas
-
-Abaixo, o acesso rápido aos projetos técnicos desenvolvidos:
-
-🔹 Algoritmos e Lógica (Linguagem C)
-
-Link: github.com/clarageovanasc/Algoritmo-e-Pensamento-Computacional
+Link: https://github.com/clarageovanasc/Algoritmo-e-Pensamento-Computacional
 
 Destaque: Calculadora Científica e Sistema de Cadastro.
 
-🔹 Front-End (Web)
+Front-End (Web)
 
-Link: github.com/clarageovanasc/Desenvolvimento-Front-End-Para-Web
+Link: https://github.com/clarageovanasc/Desenvolvimento-Front-End-Para-Web
 
-Destaque: Landing Page Materialize e Prova A1 (Helicópteros).
+Destaque: Landing Page Materialize e Prova A1.
 
-🔹 Banco de Dados (SQL)
+Banco de Dados (SQL)
 
-Link: github.com/clarageovanasc/Modelagem-Banco-de-Dados
+Link: https://github.com/clarageovanasc/Modelagem-Banco-de-Dados
 
-Destaque: Modelagem completa para Cidade Inteligente (Smart City).
+Destaque: Modelagem Cidade Inteligente.
 
-3. Estrutura de Arquivos
+2. Estrutura de Arquivos
 
-Organização interna deste repositório para consulta:
+Curriculo_LaTex/: Pasta com o currículo em PDF.
 
-📂 Curriculo_LaTex/
-
-curriculo.latex.pdf (Arquivo final do currículo)
-
-📂 Evidencia_Candidatura/
-
-aplicacao.png (Print da candidatura)
-
-📂 Teste_Github/
-
-Atividades práticas de Git
-
-📂 imagens/
-
-Recursos visuais
-
-Desenvolvido por Clara Geovana.
+Evidencia_Candidatura/: Pasta com o print da vaga.
