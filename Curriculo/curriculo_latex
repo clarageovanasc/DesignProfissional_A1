@@ -1,0 +1,65 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% Configurações de estilo
+\moderncvstyle{banking} % Estilo moderno e limpo
+\moderncvcolor{blue}    % Cor de destaque
+
+% --- AJUSTES VISUAIS ---
+% O nome volta ao tamanho padrão do estilo (maior destaque)
+% Ajuste do Título para harmonizar logo abaixo do nome
+\renewcommand*{\titlefont}{\Large\mdseries\slshape}
+
+% Ajuste de margens
+\usepackage[scale=0.75]{geometry}
+\usepackage[utf8]{inputenc}
+
+% --- DADOS PESSOAIS ---
+\name{Clara}{Caldeira}
+\title{Estudante de Análise e Desenvolvimento de Sistemas}
+\address{Brasília -- DF}{Brasil}
+\phone[mobile]{(61) 99831-5604}
+\email{clarageovana23@gmail.com}
+\social[github]{clarageovanasc}
+\social[linkedin]{clarageovanacs}
+
+% --- INÍCIO DO DOCUMENTO ---
+\begin{document}
+
+\makecvtitle
+
+% --- OBJETIVO ---
+\section{Objetivo Profissional}
+\cvitem{}{Busco oportunidade de estágio na área de Tecnologia da Informação, onde possa aplicar meus conhecimentos em desenvolvimento Web, Banco de Dados e Lógica de Programação, contribuindo para soluções inovadoras.}
+
+% --- FORMAÇÃO ---
+\section{Formação Acadêmica}
+\cventry{2025 -- Atual}{Tecnólogo em Análise e Desenvolvimento de Sistemas}{Faculdade UDF}{Brasília}{}{1º Semestre em curso.}
+
+% --- PORTFÓLIO DE PROJETOS (A1) ---
+\section{Projetos Acadêmicos (Portfólio)}
+
+\cventry{2025}{Smart City Security (Banco de Dados)}{Modelagem de Dados}{}{}{
+Modelagem completa (Conceitual, Lógica e Física) de um sistema de segurança pública para Cidades Inteligentes.
+\begin{itemize}
+    \item Ferramentas: brModelo, PostgreSQL (SQL).
+    \item Destaque: Estruturação de entidades complexas e normalização.
+\end{itemize}}
+
+\cventry{2025}{Helicópteros de Luxo (Front-End)}{Desenvolvimento Web}{}{}{
+Landing Page responsiva com integração de mapas interativos.
+\begin{itemize}
+    \item Tecnologias: HTML5, CSS3, JavaScript, Leaflet API.
+    \item Destaque: Design Mobile-First e manipulação do DOM.
+\end{itemize}}
+
+\cventry{2025}{Calculadora Científica (Algoritmos)}{Linguagem C}{}{}{
+Software de cálculos matemáticos com persistência de dados.
+\begin{itemize}
+    \item Conceitos: Modularização, Structs e Manipulação de Arquivos.
+\end{itemize}}
+
+% --- HABILIDADES ---
+\section{Competências Técnicas}
+\cvitem{Soft Skills}{Trabalho em Equipe, Organização, Comunicação e Documentação Técnica}
+
+\end{document}
