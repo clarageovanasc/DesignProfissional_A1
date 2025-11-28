@@ -21,7 +21,7 @@ Link: [Front-End (Web)](https://github.com/clarageovanasc/Desenvolvimento-Front-
 
 Destaque: Landing Page Materialize e Prova A1.
 
-###▶️  Banco de Dados (SQL)
+### ▶️  Banco de Dados (SQL)
 
 Link: [Banco de Dados (SQL)](https://github.com/clarageovanasc/Modelagem-Banco-de-Dados)
 
