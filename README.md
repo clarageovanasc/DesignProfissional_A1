@@ -1,67 +1,47 @@
-🚀 Portfólio Acadêmico - Avaliação A1
+Portfólio Acadêmico - Avaliação A1
 
 Aluna: Clara Geovana (clarageovanasc)
-
 Curso: Análise e Desenvolvimento de Sistemas
-
 Disciplina: Design Profissional
 
-🎯 Objetivo
+1. Checklist de Entregáveis
 
-Este repositório centraliza as entregas da Avaliação A1, organizando as evidências de carreira e os links para os projetos técnicos desenvolvidos no 1º semestre.
+Aqui estão os links para as evidências solicitadas:
 
-✅ Checklist de Entregáveis
+[x] Processo Seletivo: Ver Imagem
 
-Abaixo estão os links diretos para os arquivos solicitados:
+[x] Currículo Profissional: Baixar PDF
 
-[x] 1. Processo Seletivo: 📄 Visualizar Comprovante
+[x] Portfólio Digital: Este próprio repositório.
 
-[x] 2. Currículo Profissional: 📄 Baixar PDF (LaTeX)
+[ ] Certificado: Não se aplica.
 
-[x] 3. Portfólio Digital: Este próprio repositório (DesignProfissional-A1).
+2. Repositórios das Disciplinas
 
-[ ] 4. Certificado: Não se aplica neste semestre.
+Links para os projetos técnicos desenvolvidos no semestre:
 
-📚 Repositórios das Disciplinas
+Algoritmos e Lógica (C)
 
-Links diretos para os projetos técnicos (hospedados externamente):
+Link: https://github.com/clarageovanasc/Algoritmo-e-Pensamento-Computacional
 
-1️⃣ Algoritmos e Lógica (C)
+Destaque: Calculadora Científica e Sistema de Cadastro.
 
-Foco: Lógica Computacional.
+Front-End (Web)
 
-Projetos: Calculadora Avançada, Sistema de Cadastro e Sorts.
+Link: https://github.com/clarageovanasc/Desenvolvimento-Front-End-Para-Web
 
-2️⃣ Front-End (Web)
+Destaque: Landing Page Materialize e Prova A1.
 
-Foco: HTML5, CSS3 e Interfaces.
+Banco de Dados (SQL)
 
-Projetos: Landing Page Materialize e Prova A1 (Helicópteros).
+Link: https://github.com/clarageovanasc/Modelagem-Banco-de-Dados
 
-3️⃣ Banco de Dados (SQL)
+Destaque: Modelagem Cidade Inteligente.
 
-Foco: Modelagem de Dados.
+3. Estrutura de Arquivos
 
-Projetos: Modelagem completa para Cidade Inteligente (Smart City).
+Curriculo_LaTex/: Pasta com o currículo em PDF.
 
-📂 Estrutura de Arquivos
-
-Organização interna deste repositório:
-
-📂 Curriculo_LaTex/
-
-curriculo.latex.pdf (Arquivo final do currículo)
-
-📂 Evidencia_Candidatura/
-
-aplicacao.png (Print da candidatura)
-
-📂 Teste_Github/
-
-Atividades práticas de Git
-
-📂 imagens/
-
-Recursos visuais
+Evidencia_Candidatura/: Pasta com o print da vaga.
 
 Desenvolvido por Clara Geovana.
