@@ -10,106 +10,46 @@ Instituição: UDF - Centro Universitário
 
 🎯 Objetivo
 
-Este repositório atua como o Hub Central para a Avaliação A1, demonstrando a organização digital, o posicionamento profissional e as competências técnicas adquiridas ao longo do semestre. Aqui estão centralizadas as evidências de aprendizado e os links para os projetos técnicos.
+Este repositório atua como o Hub Central para a Avaliação A1, centralizando as evidências de aprendizado, o currículo profissional e os links para os projetos técnicos desenvolvidos.
 
-✅ Checklist de Entregáveis (A1)
+✅ Checklist de Entregáveis
 
-Conforme a trilha de avaliação, abaixo estão as evidências solicitadas:
+Abaixo estão os links diretos para as evidências solicitadas:
 
-Item
+1. Documentação Profissional
 
-Entregável
+[x] Processo Seletivo: Visualizar Candidatura
 
-Status
+[x] Currículo Profissional: Baixar PDF
 
-Link de Acesso / Evidência
+[x] Portfólio Digital: Este próprio repositório GitHub.
 
-1.
+2. Portfólio Técnico (Repositórios)
 
-Processo Seletivo
+[x] Algoritmos (C): Acessar Repositório
 
-✅
+[x] Front-End (Web): Acessar Repositório
 
-Visualizar Comprovante
+[x] Banco de Dados (SQL): Acessar Repositório
 
-2.
+📂 Estrutura do Repositório
 
-Certificado de Evento
+Organização dos arquivos e pastas deste portfólio:
 
-✅
+Curriculo_LaTex/: Contém a versão em PDF do currículo gerado via código.
 
-Visualizar Certificado
+Evidencia_Candidatura/: Comprovantes de aplicação em vagas.
 
-3.
+Teste_Github/: Atividade prática de validação e comandos Git.
 
-Currículo em LaTeX
+imagens/: Recursos visuais utilizados nos projetos.
 
-✅
+🛠️ Tecnologias
 
-Baixar PDF do Currículo
+LaTeX: Diagramação do currículo.
 
-4.
+Git/GitHub: Versionamento.
 
-Portfólio (GitHub)
-
-✅
-
-Este repositório e os links abaixo.
-
-5.
-
-Repositórios do Semestre
-
-✅
-
-Listados na seção a seguir.
-
-Nota: Os arquivos de evidência encontram-se na pasta evidencias/ e o currículo na raiz deste repositório.
-
-📚 Repositórios das Disciplinas
-
-Abaixo estão os links diretos para os laboratórios técnicos desenvolvidos neste semestre:
-
-1️⃣ Algoritmos e Lógica de Programação
-
-Foco: Lógica Computacional e Linguagem C.
-
-Destaque: Desenvolvimento de uma Calculadora Científica com persistência de dados e um sistema de validação de cadastro utilizando Structs.
-
-2️⃣ Desenvolvimento Front-End
-
-Foco: Criação de Interfaces Web (HTML5, CSS3, JS).
-
-Destaque: Landing Page "Helicópteros de Luxo" integrada com API de mapas (Leaflet) e utilização do framework Materialize.
-
-3️⃣ Modelagem de Banco de Dados
-
-Foco: Modelagem Relacional e SQL.
-
-Destaque: Projeto "Smart City Security", contendo o ciclo completo de engenharia de dados (Conceitual, Lógico e Scripts Físicos).
-
-📂 Estrutura deste Repositório
-
-A organização interna deste portfólio segue o padrão:
-
-DesignProfissional_A1/
-│
-├── evidencias/                  # Comprovantes externos
-│   ├── processo_seletivo.pdf    # Print da candidatura
-│   └── certificado_evento.pdf   # Certificado de horas complementares
-│
-├── CV-Latex.pdf                 # Currículo Profissional (Gerado via LaTeX)
-├── curriculo.tex                # Código Fonte do Currículo
-│
-└── README.md                    # Este arquivo (Índice Geral)
-
-
-🛠️ Tecnologias Utilizadas na A1
-
-LaTeX (Overleaf): Para diagramação profissional do currículo.
-
-Git & GitHub: Para versionamento e hospedagem do portfólio.
-
-Markdown: Para documentação técnica e relatórios.
+Markdown: Documentação.
 
 Desenvolvido por Clara Geovana.
