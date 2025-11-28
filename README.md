@@ -1,22 +1,11 @@
 Portfólio Acadêmico - Avaliação A1
 
-Aluna: Clara Geovana (clarageovanasc)
+Aluna: Clara Geovana Caldeira da Silva (clarageovanasc)
 Curso: Análise e Desenvolvimento de Sistemas
 Disciplina: Design Profissional
 
-1. Checklist de Entregáveis
 
-Aqui estão os links para as evidências solicitadas:
-
-[x] Processo Seletivo: Ver Imagem
-
-[x] Currículo Profissional: Baixar PDF
-
-[x] Portfólio Digital: Este próprio repositório.
-
-[ ] Certificado: Não se aplica.
-
-2. Repositórios das Disciplinas
+1. Repositórios das Disciplinas
 
 Links para os projetos técnicos desenvolvidos no semestre:
 
@@ -38,10 +27,9 @@ Link: https://github.com/clarageovanasc/Modelagem-Banco-de-Dados
 
 Destaque: Modelagem Cidade Inteligente.
 
-3. Estrutura de Arquivos
+2. Estrutura de Arquivos
 
 Curriculo_LaTex/: Pasta com o currículo em PDF.
 
 Evidencia_Candidatura/: Pasta com o print da vaga.
 
-Desenvolvido por Clara Geovana.
