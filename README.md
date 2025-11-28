@@ -12,62 +12,56 @@ Este repositório centraliza as entregas da Avaliação A1, organizando as evid�
 
 ✅ Checklist de Entregáveis
 
-Aqui estão os links diretos para os arquivos que já estão nas suas pastas:
+Abaixo estão os links diretos para os arquivos solicitados:
 
-Entregável
+[x] 1. Processo Seletivo: 📄 Visualizar Comprovante
 
-Status
+[x] 2. Currículo Profissional: 📄 Baixar PDF (LaTeX)
 
-Link de Acesso
+[x] 3. Portfólio Digital: Este próprio repositório (DesignProfissional-A1).
 
-1. Processo Seletivo
-
-✅
-
-Visualizar Candidatura
-
-2. Currículo Profissional
-
-✅
-
-Baixar PDF (LaTeX)
-
-3. Portfólio Digital
-
-✅
-
-Este próprio README e os links abaixo.
-
-4. Certificado
-
-➖
-
-Não se aplica neste semestre.
+[ ] 4. Certificado: Não se aplica neste semestre.
 
 📚 Repositórios das Disciplinas
 
-Links para os seus projetos técnicos (baseado nos seus prints):
+Links diretos para os projetos técnicos (hospedados externamente):
 
 1️⃣ Algoritmos e Lógica (C)
+
+Foco: Lógica Computacional.
 
 Projetos: Calculadora Avançada, Sistema de Cadastro e Sorts.
 
 2️⃣ Front-End (Web)
 
+Foco: HTML5, CSS3 e Interfaces.
+
 Projetos: Landing Page Materialize e Prova A1 (Helicópteros).
 
 3️⃣ Banco de Dados (SQL)
+
+Foco: Modelagem de Dados.
 
 Projetos: Modelagem completa para Cidade Inteligente (Smart City).
 
 📂 Estrutura de Arquivos
 
-Organização atual deste repositório:
+Organização interna deste repositório:
 
-Curriculo_LaTex/: Contém o currículo em PDF.
+📂 Curriculo_LaTex/
 
-Evidencia_Candidatura/: Contém o print da vaga.
+curriculo.latex.pdf (Arquivo final do currículo)
 
-Teste_Github/: Atividades práticas de Git.
+📂 Evidencia_Candidatura/
 
-imagens/: Recursos visuais.
+aplicacao.png (Print da candidatura)
+
+📂 Teste_Github/
+
+Atividades práticas de Git
+
+📂 imagens/
+
+Recursos visuais
+
+Desenvolvido por Clara Geovana.
